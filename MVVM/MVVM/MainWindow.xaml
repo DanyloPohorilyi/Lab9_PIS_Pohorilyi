@@ -1,0 +1,22 @@
+﻿<Window x:Class="MVVM.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:MVVM"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="329.6">
+    <Grid>
+        <Label Content="Сторона A" HorizontalAlignment="Left" Margin="104,40,0,0" VerticalAlignment="Top"/>
+        <Label Content="Сторона B" HorizontalAlignment="Left" Margin="104,100,0,0" VerticalAlignment="Top"/>
+        <Label Content="Висота h" HorizontalAlignment="Left" Margin="104,161,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.168,0.504"/>
+        <Label Content="Площа S" HorizontalAlignment="Left" Margin="104,245,0,0" VerticalAlignment="Top"/>
+        <Label Content="Об'єм V" HorizontalAlignment="Left" Margin="104,300,0,0" VerticalAlignment="Top"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="104,71,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" x:Name="side_a" Text="{Binding Number1, UpdateSourceTrigger=PropertyChanged}"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="104,131,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" x:Name="side_b" Text="{Binding Number2, UpdateSourceTrigger=PropertyChanged}"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="104,192,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" x:Name="height" Text="{Binding Number3, UpdateSourceTrigger=PropertyChanged}"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="104,276,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" x:Name="S" Text="{Binding Number4, Mode=OneWay}" IsReadOnly="True"/>
+        <TextBox HorizontalAlignment="Left" Height="23" Margin="104,331,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" x:Name="V" Text="{Binding Number5, Mode=OneWay}" IsReadOnly="True"/>
+
+    </Grid>
+</Window>

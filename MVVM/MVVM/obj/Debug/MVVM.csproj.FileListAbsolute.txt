@@ -1,0 +1,15 @@
+D:\study-1\ПІС\Lab9\MVVM\MVVM\bin\Debug\MVVM.exe.config
+D:\study-1\ПІС\Lab9\MVVM\MVVM\bin\Debug\MVVM.exe
+D:\study-1\ПІС\Lab9\MVVM\MVVM\bin\Debug\MVVM.pdb
+D:\study-1\ПІС\Lab9\MVVM\MVVM\obj\Debug\MVVM.csprojAssemblyReference.cache
+D:\study-1\ПІС\Lab9\MVVM\MVVM\obj\Debug\MainWindow.g.cs
+D:\study-1\ПІС\Lab9\MVVM\MVVM\obj\Debug\App.g.cs
+D:\study-1\ПІС\Lab9\MVVM\MVVM\obj\Debug\MVVM_MarkupCompile.cache
+D:\study-1\ПІС\Lab9\MVVM\MVVM\obj\Debug\MVVM_MarkupCompile.lref
+D:\study-1\ПІС\Lab9\MVVM\MVVM\obj\Debug\MainWindow.baml
+D:\study-1\ПІС\Lab9\MVVM\MVVM\obj\Debug\MVVM.g.resources
+D:\study-1\ПІС\Lab9\MVVM\MVVM\obj\Debug\MVVM.Properties.Resources.resources
+D:\study-1\ПІС\Lab9\MVVM\MVVM\obj\Debug\MVVM.csproj.GenerateResource.cache
+D:\study-1\ПІС\Lab9\MVVM\MVVM\obj\Debug\MVVM.csproj.CoreCompileInputs.cache
+D:\study-1\ПІС\Lab9\MVVM\MVVM\obj\Debug\MVVM.exe
+D:\study-1\ПІС\Lab9\MVVM\MVVM\obj\Debug\MVVM.pdb
